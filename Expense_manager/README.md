@@ -1,4 +1,4 @@
-### Expense Manager Curd Operation 
+### Expense Manager CRUD Operations 
 
 
 ![Screenshot (733)](https://user-images.githubusercontent.com/70711348/189335676-ece2113c-051f-401e-9562-5178d7a1b9d3.png)![Screenshot (734)](https://user-images.githubusercontent.com/70711348/189335681-2762048e-8168-44f3-a85a-57a07d0cf0c4.png)
@@ -11,8 +11,6 @@
 ![Screenshot (727)](https://user-images.githubusercontent.com/70711348/189335646-c9b7e108-46f8-4234-9b01-2a97d8d5329c.png)
 ![Screenshot (728)](https://user-images.githubusercontent.com/70711348/189335656-1da184d1-5a52-4a7d-949e-2348c8d92a1e.png)
 ![Screenshot (729)](https://user-images.githubusercontent.com/70711348/189335661-40d80287-c659-4fda-a209-d82b4b4efe6a.png)
-![Screenshot (730)](https://user-images.githubusercontent.com/70711348/189335664-708df604-d603-4fc3-b4d7-7a0afa921303.png)
 ![Screenshot (731)](https://user-images.githubusercontent.com/70711348/189335667-65c54030-ac01-4da1-af35-13fa1a3fb48f.png)
-![Screenshot (732)](https://user-images.githubusercontent.com/70711348/189335673-683911e7-240a-4522-9128-e356695fe2b8.png)
-/ss%20(3).png)
+
 
